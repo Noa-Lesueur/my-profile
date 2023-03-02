@@ -1,29 +1,29 @@
 
 body{
- 	background: #FAEBD7;
+ 	background: #FFE082;
  	color: #steelblue;
  	font-family: 'Lora', serif; 
  	font-size: 16px;
  	font-weight: lighter;
 }
 h1, h2, h3 {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Lato', sans-serif;
 }
 h1 {
-  	color: #FF7F50;
+  	color: #E65100;
   	font-size: 36px;
   	font-weight: 600;
 }
 h2 {
-  	color: #FF7F50;  
-  	font-size: 25px;
+  	color: #E65100;  
+  	font-size: 26px;
   	font-weight: 400;
 }
 a {
  	text-decoration: inherit;
- 	color: #FF7F50;
+ 	color: #E65100;
  	font-weight:
- 	font-size: 14px;
+ 	font-size: 16px;
 }
 a:hover {
 	color: black;
@@ -31,7 +31,7 @@ a:hover {
 
  
 .container {
-	width:700px;
+	width:650px;
 	margin:40px auto;
 }
 
@@ -51,8 +51,8 @@ a:hover {
 	background-color:white;
 	padding: 40px;
 	box-shadow: 0px 10px 30px rgba(0,0,0,0,1);
-	border-radius: 4px; 
-	margin: 20px 0px; 
+	border-radius: 6px; 
+	margin: 22px 0px; 
 	text-align: center;
 }
 
@@ -61,9 +61,9 @@ a:hover {
 }
 
 .btn-blue {
-	background-color: #95541F;
+	background-color: #E65100;
 	color: white;
-	padding: 15px 20px;
+	padding: 16px 20px;
 	border-radius: 4px;
 }
 .btn-blue: hover {
@@ -78,12 +78,12 @@ a:hover {
 
 .list-inline li {
 	display: inline;
-	padding: 10px;
+	padding: 12px;
 }
 
 .list-inline i {
-	font-size: 50px;
-	color: rgb(149, 84, 31);
+	font-size: 60px;
+	color: #E65100;
 }
 .list-inline i:hover {
 	color: black;
